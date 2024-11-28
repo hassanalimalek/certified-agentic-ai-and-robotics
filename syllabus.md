@@ -1,6 +1,6 @@
 # Certified Agentic and Robotic AI Engineer - Detailed Syllabus
 
-Hardware Setup ✅
+Hardware Setup 
 - MacBook Pro with 16GB RAM (Perfect for development)
 - 100GB+ available storage
 - Built-in Terminal (Better than Windows!)
@@ -2076,3 +2076,20 @@ Would you like me to:
 3. Suggest additional cost-saving methods?
 4. Create a minimal-cost learning path?
 
+## Prerequisites
+- Detailed prerequisites for each module to ensure readiness
+
+## Assessment and Feedback
+- Information on assessment types and feedback mechanisms
+
+## Advanced Topics
+- Additional advanced modules or electives for deeper exploration
+
+## Interactive Learning Tools
+- Incorporation of coding sandboxes, simulations, or virtual labs
+
+## Career Development
+- Insights into career opportunities, industry trends, and job roles
+
+## Regular Updates
+- Commitment to regular syllabus updates to reflect technological advancements
