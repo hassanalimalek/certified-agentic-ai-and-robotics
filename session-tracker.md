@@ -1,5 +1,7 @@
 # Study Session Tracker
 
+Total Hours Studied: 4 hours 24 minutes
+
 ## Session 1
 Date: November 19, 2024
 Time: 7:01 PM - 9:40 PM
@@ -33,24 +35,33 @@ Duration: 2 hours 39 minutes
   - 0.2.2 Development Containers
 
 ## Session 2
-Date: November 22, 2024
-Time: 4:15 PM
-Duration: TBD
+Date: November 29, 2024
+Time: 4:45 PM - 6:30 PM
+Duration: 1 hour 45 minutes
 
-### Topics to Cover:
+### Topics Covered:
 - Module 0: Docker and Development Containers
   - 0.2.1 Docker Fundamentals
-    * Docker Definition and Purpose
-    * Core Architecture
-    * Key Components:
-      - Docker Client
-      - Docker Daemon
-      - Docker Registry
-    * Docker Images
-    * Docker Containers
-    * Docker Registry and Hub
+    * Docker Definition and Purpose 
+    * Core Architecture 
+    * Key Components 
+      - Docker Client 
+      - Docker Daemon 
+      - Docker Registry 
+    * Basic Docker Commands 
+    * Docker attach vs exec 
 
-### Session Goals:
-- Understand Docker fundamentals thoroughly
-- Master core Docker concepts and architecture
-- Learn about Docker components and their interactions
+### Progress:
+- Understanding Docker fundamentals
+- Mastering core Docker concepts
+- Learning basic Docker commands
+
+### Next Session Starting Point:
+- Writing Dockerfiles (restart from basics)
+- Focus on simple examples first
+- Progress to more complex setups later
+
+### Notes for Next Session:
+- Start with a simple Hello World Dockerfile
+- Build up complexity gradually
+- Focus on practical examples

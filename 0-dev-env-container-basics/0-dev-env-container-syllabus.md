@@ -76,7 +76,7 @@ Resources:
 - Git integration
 - Testing setup
 - Development tools configuration
-- CI/CD considerations
+
 
 Mini-Project: Python Project Setup
 Time Estimate: 2-3 hours
@@ -115,7 +115,6 @@ Common Pitfalls:
 - Writing Dockerfiles
 - Managing images and containers
 - Docker networking basics
-- Volume management for persistent data
 
 #### 0.2.2 Development Containers
 - Understanding Dev Containers concept

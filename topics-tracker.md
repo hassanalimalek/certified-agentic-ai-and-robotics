@@ -23,15 +23,16 @@
 
 ### 0.2 Docker and Development Containers
 - [ ] 0.2.1 Docker Fundamentals
-  * [ ] Docker Definition and Purpose
-  * [ ] Core Architecture
-  * [ ] Key Components:
-    - [ ] Docker Client
-    - [ ] Docker Daemon
-    - [ ] Docker Registry
-  * [ ] Docker Images
-  * [ ] Docker Containers
-  * [ ] Docker Registry and Hub
+  * [✓] Docker Definition and Purpose
+  * [✓] Core Architecture
+  * [✓] Key Components:
+    - [✓] Docker Client
+    - [✓] Docker Daemon
+    - [✓] Docker Registry
+  * [✓] Basic Docker Commands
+  * [ ] Writing Dockerfiles (To restart)
+  * [ ] Managing images and containers
+  * [ ] Docker networking basics
 
 - [ ] 0.2.2 Development Containers
 
