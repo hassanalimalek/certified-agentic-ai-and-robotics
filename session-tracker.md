@@ -1,6 +1,6 @@
 # Study Session Tracker
 
-Total Hours Studied: 4 hours 24 minutes
+Total Hours Studied: 6 hours 54 minutes
 
 ## Session 1
 Date: November 19, 2024
@@ -65,3 +65,51 @@ Duration: 1 hour 45 minutes
 - Start with a simple Hello World Dockerfile
 - Build up complexity gradually
 - Focus on practical examples
+
+## Session 3
+Date: December 2, 2024
+Time: 6:00 PM - 8:30 PM
+Duration: 2 hours 30 minutes
+
+### Topics Covered:
+- Module 0: Docker and Development Containers
+  - 0.2.1 Docker Fundamentals
+    * Writing Dockerfiles
+      - Basic Dockerfile structure
+      - Essential instructions (FROM, WORKDIR, COPY, CMD)
+      - Understanding LABEL and metadata
+    * Created first Docker container
+      - Simple Python hello world
+      - Building and running containers
+    * Docker Commands Deep Dive
+      - docker build and run
+      - Container management (start, ps, logs)
+      - Understanding command flags (-d, -it, --name)
+
+### Progress:
+- Created first Docker container project
+- Learned basic Dockerfile instructions
+- Practiced essential Docker commands
+- Understanding container lifecycle
+
+### Next Steps:
+- Continue with more advanced Docker concepts
+- Explore container management
+- Learn about Docker networking
+
+## Session 4
+Date: December 4, 2024
+Time: 1:30 PM
+Duration: TBD
+
+### Topics to Cover:
+- Module 0: Docker and Development Containers
+  - 0.2.1 Docker Fundamentals
+    * Advanced Docker Commands
+    * Container Management
+    * Docker Networking Basics
+
+### Session Goals:
+- Master Docker container management
+- Understand container networking
+- Practice more complex Docker scenarios

@@ -30,9 +30,9 @@
     - [✓] Docker Daemon
     - [✓] Docker Registry
   * [✓] Basic Docker Commands
-  * [ ] Writing Dockerfiles (To restart)
-  * [ ] Managing images and containers
-  * [ ] Docker networking basics
+  * [✓] Writing Basic Dockerfiles
+  * [ ] Container Management
+  * [ ] Docker Networking Basics
 
 - [ ] 0.2.2 Development Containers
 

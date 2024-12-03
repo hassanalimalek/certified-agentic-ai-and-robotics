@@ -1,4 +1,3 @@
-
 ## Module 0: Development Environment Setup and Container Basics
 Estimated Time: 2-3 weeks
 Prerequisites: Basic computer knowledge
@@ -109,12 +108,25 @@ Common Pitfalls:
 ### 0.2 Docker and Development Containers
 
 #### 0.2.1 Docker Fundamentals
-- Understanding containers vs virtual machines
-- Docker architecture and components
-- Basic Docker commands
+- Docker Definition and Purpose
+- Core Architecture
+- Key Components:
+  * Docker Client
+  * Docker Daemon
+  * Docker Registry
+- Basic Docker Commands
 - Writing Dockerfiles
-- Managing images and containers
-- Docker networking basics
+- Container Management
+- Basic Volume Management
+  * Understanding persistent data
+  * Mounting volumes
+  * Sharing data between containers
+  * Volume backup basics
+- Docker Compose Introduction
+  * What is Docker Compose
+  * Basic docker-compose.yml
+  * Multi-container applications
+  * Common use cases
 
 #### 0.2.2 Development Containers
 - Understanding Dev Containers concept
